@@ -1,0 +1,43 @@
+67 RH%
+-6.2'C
+
+*** signal_start = 8026933, signal_end = 8069768
+signal_len = 42835,  pulses = 47
+Iteration 1. t: 248    min: 127 (23)    max: 370 (24)    delta 10
+Iteration 2. t: 248    min: 127 (23)    max: 370 (24)    delta 0
+Pulse coding: Short pulse length 127 - Long pulse length 370
+
+Short distance: 239, long distance: 0, packet distance: 239
+
+p_limit: 248
+bitbuffer:: Number of rows: 25 
+[00] {1} 00 : 0
+[01] {1} 00 : 0
+[02] {1} 00 : 0
+[03] {1} 00 : 0
+[04] {1} 00 : 0
+[05] {1} 00 : 0
+[06] {1} 00 : 0
+[07] {1} 80 : 1
+[08] {1} 00 : 0
+[09] {1} 80 : 1
+[10] {1} 80 : 1
+[11] {1} 80 : 1
+[12] {1} 00 : 0
+[13] {1} 00 : 0
+[14] {1} 80 : 1
+[15] {1} 00 : 0
+[16] {1} 00 : 0
+[17] {1} 00 : 0
+[18] {1} 00 : 0
+[19] {1} 80 : 1
+[20] {1} 80 : 1
+[21] {1} 80 : 1
+[22] {1} 00 : 0
+[23] {1} 80 : 1
+[24] {23} 5b 79 f4 : 01011011 01111001 1111010
+signal_bszie = 131072  -      sg_index = 524288
+start_pos    = 279822  -   buffer_size = 3145728
+*** Saving signal to file gfile001.data
+*** Writing data from 279822, len 131072
+
